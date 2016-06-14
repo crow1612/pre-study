@@ -1,2 +1,2 @@
 1、puppet
-现实傀儡进程。就是说，将自己的进程运行在另一个exe内部，实现傀儡功能。实现32位和64位。
+accomplish puppet process. That is, inject one process to another process. There are two version for X86 and X64.
